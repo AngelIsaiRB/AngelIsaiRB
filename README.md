@@ -1,6 +1,6 @@
-![Angel isai Bnr](https://raw.githubusercontent.com/AngelIsaiRB/profile/master/assets/angelisai%20Banner.jpg)
+![Angel isai Bnr](https://raw.githubusercontent.com/AngelIsaiRB/AngelIsaiRB/master/assets/angelisai%20Banner.jpg)
 
-## 👋 &nbsp;hey, hola soy Angel Isai Ramirez Bazan
+## 👋 &nbsp;hey!, hola soy Angel Isai Ramirez Bazan
 
 ### 👨🏻‍💻 &nbsp;Sobre mi
 
