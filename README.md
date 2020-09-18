@@ -1,14 +1,14 @@
 ![Angel isai Bnr](https://raw.githubusercontent.com/AngelIsaiRB/AngelIsaiRB/master/assets/angelisai%20Banner.jpg)
 
-## 👋 &nbsp;hey!, hola soy Angel Isai Ramirez Bazan
+## hola soy Angel Isai Ramirez Bazan
 
-### 👨🏻‍💻 &nbsp;Sobre mi
+###  &nbsp;Sobre mi
 
 💡 &nbsp;Me encanta programar y aprender de las nuevas tecnologías.\
 🎓 &nbsp;Actualmente estudio Ingeniería en Tecnologías de la Información Y Comunicaciones en el Instituto Tecnológico del Valle de Oaxaca.\
 ✍️ &nbsp;En mi tiempo libre me encanta desarollar APPs y explorar las nuevas tendencias de la programación.\
 ✉️ &nbsp;Me puedes contactar a mi correo <a href="mailto:qwerasdffdeswa@live.com"><img src="https://img.shields.io/badge/-qwerasdffdeswa@live.com-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>y te responderé lo más rápido posible.\
-📄 &nbsp;Puedes mirar mi perfil laboral en <a href="https://www.linkedin.com/in/angel-isai-ramirez-bazan-56a59a1b2/"><img src="https://img.shields.io/badge/-Angel Isai-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a> para mas detalles sobre mi.
+📄 &nbsp;Puedes mirar mi perfil laboral en <a href="https://www.linkedin.com/in/angel-isai-ramirez-bazan-56a59a1b2/"><img src="https://img.shields.io/badge/-Angel Isai-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a> 
 
 
 
@@ -28,16 +28,6 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![android](https://img.shields.io/badge/-Android-333333?style=flat&logo=Android)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)&nbsp;
-
-### ⚙️ &nbsp;GitHub 
-
-<p align="center">
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AngelIsaiRB&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
-
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AngelIsaiRB&layout=compact&exclude_lang=java+r&theme=vue-dark" />
-</a>
-</p>
 
 ### 🤝🏻 &nbsp;Contacto
 
