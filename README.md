@@ -50,6 +50,6 @@ https://play.google.com/store/apps/details?id=com.angelisairb.Horario
 
 🧱🧱🧱🧱🧱⛏️⛏️⛏️En construccion⛏️⛏️⛏️🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱
 <p align="center">
-<a href="https://play.google.com/store/apps/details?id=com.angelisairb.Horario"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Play_Arrow_logo.svg/1200px-Google_Play_Arrow_logo.svg.png" heigt="100" width="100" /></a>
+<a href="https://e-horary.netlify.app"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Play_Arrow_logo.svg/1200px-Google_Play_Arrow_logo.svg.png" heigt="100" width="100" /></a>
 
 
