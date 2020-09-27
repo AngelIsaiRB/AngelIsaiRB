@@ -45,7 +45,7 @@
 👨🏻‍💻 &nbsp; Aplicacion de horario y manejo de informacion del Instituto Tecnologico Del Valle de Oaxaca.\
 ⚠️⚠️⚠️Repositorio privado, por el momento
 
-https://play.google.com/store/apps/details?id=com.angelisairb.Horario
+https://e-horary.netlify.app
 
 
 🧱🧱🧱🧱🧱⛏️⛏️⛏️En construccion⛏️⛏️⛏️🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱
