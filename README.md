@@ -11,12 +11,12 @@
 ✍️ &nbsp;En mi tiempo libre me encanta desarollar APPs y explorar las nuevas tendencias de la programación.\
 ✉️ &nbsp;Me puedes contactar a mi correo <a href="mailto:qwerasdffdeswa@live.com"><img src="https://img.shields.io/badge/-qwerasdffdeswa@live.com-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>y te responderé lo más rápido posible.\
 📄 &nbsp;Puedes mirar mi perfil laboral en <a href="https://www.linkedin.com/in/angel-isai-ramirez-bazan-56a59a1b2/"><img src="https://img.shields.io/badge/-Angel Isai-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a> 
-### ⚙️ &nbsp;GitHub 
+<!-- ### ⚙️ &nbsp;GitHub 
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AngelIsaiRB&layout=compact&exclude_lang=java+r&theme=vue-dark" />
 </a>
-</p>
+</p> -->
 
     
 
