@@ -1,8 +1,8 @@
 ![Angel isai Bnr](https://raw.githubusercontent.com/AngelIsaiRB/AngelIsaiRB/master/assets/angelisai%20Banner.jpg)
 
 ## hola soy Angel Isai Ramirez Bazan 
-<a href="https://angelisairamirezbazan.netlify.app">
-🌐visita mi web </a>
+<a href="https://angelisai.com">
+## 🌐visita mi web </a>
 
 ###  &nbsp;Sobre mi
 
