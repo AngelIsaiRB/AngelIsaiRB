@@ -1,4 +1,4 @@
-![Angel isai Bnr](https://raw.githubusercontent.com/AngelIsaiRB/AngelIsaiRB/master/assets/angelisai%20Banner.jpg)
+
 
 ## hola soy Angel Isai Ramirez Bazan 
 <a href="https://angelisai.com">
