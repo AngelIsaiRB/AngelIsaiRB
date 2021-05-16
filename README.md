@@ -48,12 +48,11 @@
 
 ## mi ultimo proyecto:
 👨🏻‍💻 &nbsp; Aplicacion de horario y manejo de informacion del Instituto Tecnologico Del Valle de Oaxaca.\
-⚠️⚠️⚠️Repositorio privado, por el momento
 
 https://e-horary.netlify.app
 
 
-🧱🧱🧱🧱🧱⛏️⛏️⛏️En construccion⛏️⛏️⛏️🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱
+🧱🧱🧱🧱🧱⛏️⛏️⛏️ya no mantenido⛏️⛏️⛏️🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱
 <p align="center">
 <a href="https://e-horary.netlify.app"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Play_Arrow_logo.svg/1200px-Google_Play_Arrow_logo.svg.png" heigt="100" width="100" /></a>
 
