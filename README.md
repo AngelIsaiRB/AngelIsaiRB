@@ -29,14 +29,3 @@
 <a href="https://www.facebook.com/angelisai.ramirez/"><img src="https://img.shields.io/badge/-Angel isai Ramirez-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
 
 
-## mi ultimo proyecto:
-👨🏻‍💻 &nbsp; Aplicacion de horario y manejo de informacion del Instituto Tecnologico Del Valle de Oaxaca.\
-
-https://e-horary.netlify.app
-
-
-🧱🧱🧱🧱🧱⛏️⛏️⛏️ya no mantenido⛏️⛏️⛏️🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱
-<p align="center">
-<a href="https://e-horary.netlify.app"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Play_Arrow_logo.svg/1200px-Google_Play_Arrow_logo.svg.png" heigt="100" width="100" /></a>
-
-
