@@ -5,9 +5,8 @@
 ## 🌐visita mi web </a>
 
 ###  &nbsp;Sobre mi
-
+Desarollador full Stack Threejs
 💡 &nbsp;Me encanta programar y aprender de las nuevas tecnologías.\
-🎓 &nbsp;Actualmente estudio Ingeniería en Tecnologías de la Información Y Comunicaciones en el Instituto Tecnológico del Valle de Oaxaca.\
 ✍️ &nbsp;En mi tiempo libre me encanta desarollar APPs y explorar las nuevas tendencias de la programación.\
 ✉️ &nbsp;Me puedes contactar a mi correo <a href="mailto:qwerasdffdeswa@live.com"><img src="https://img.shields.io/badge/-qwerasdffdeswa@live.com-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>y te responderé lo más rápido posible.\
 📄 &nbsp;Puedes mirar mi perfil laboral en <a href="https://www.linkedin.com/in/angel-isai-ramirez-bazan-56a59a1b2/"><img src="https://img.shields.io/badge/-Angel Isai-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a> 
