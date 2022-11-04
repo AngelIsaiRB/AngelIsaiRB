@@ -5,7 +5,7 @@
 ## 🌐visita mi web </a>
 
 ###  &nbsp;Sobre mi
-Desarollador full Stack Threejs
+### Desarollador full Stack Threejs 
 💡 &nbsp;Me encanta programar y aprender de las nuevas tecnologías.\
 ✍️ &nbsp;En mi tiempo libre me encanta desarollar APPs y explorar las nuevas tendencias de la programación.\
 ✉️ &nbsp;Me puedes contactar a mi correo <a href="mailto:qwerasdffdeswa@live.com"><img src="https://img.shields.io/badge/-qwerasdffdeswa@live.com-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>y te responderé lo más rápido posible.\
